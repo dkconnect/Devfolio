@@ -1,1 +1,127 @@
+vCard - Personal Portfolio
 
+# sidebar
+
+alt = Dibyanshu Kumar
+Dibyanshu
+Coder
+The Finance Bro
+Accidental Graphic Designer
+
+Show Contacts
+
+Email
+richard@example.com
+
+Github
+dkconnect
+
+LinkedIn
+dibyanshu-kumar
+
+# navbar
+
+About
+Resume
+Portfolio
+
+# about
+
+About me
+
+hey.
+
+I’m Dibyanshu, but most people call me Luci. I’m an undergraduate student at IIT Madras with a passion for programming and an ambition to build a career in finance or fintech. Right now, I spend my days programming and my nights chasing my dreams while also romanticizing every sleepless hour along the way.
+
+There’s not much more to add for now, but hopefully, the next time you visit, you’ll find more stories, experiences, and maybe a few extra lines here.
+
+## service
+
+What I do?
+
+alt = design icon
+Python Programming
+The most modern and high-quality design made at a professional level.
+
+alt = Web development icon
+Financial Modelling and Valuation Analysis
+High-quality development of sites at the professional level.
+
+alt = mobile app icon
+Visual Designing
+Professional development of applications for iOS and Android.
+
+alt = camera icon
+Financial Research
+I make high-quality photos of any category at a professional level.
+
+# resume
+
+Resume
+
+Education
+
+Indian Institute of Technology Madras
+BS in Data Science and Programming
+March 2027
+i will be adding more stuff here
+
+WorldQuant University
+Applied AI Lab
+April 2025
+i will be adding more stuff here
+
+Vivekanada Vidya Mandir
+High School Diploma (Science)
+July 2022
+i dont even know why i am adding this shit here LOL
+
+Experience
+
+Graphic Designer & Strategic Planner
+Jamsetji Tata Society For Innovation And Entrepreneurship
+January 2025 - present
+will add more stuff here
+
+Department Head
+SYNAPSE Society, IIT Madras [Extracurricular]
+January 2025 - present
+will add more stuff here
+
+Research Consultant
+Business.io, IIT Madras 
+January 2025 - April 2025
+will add more stuff here
+
+My skills
+
+Python
+80%
+SQL
+Microsoft Office
+MS Excel
+Financial Modeling and Valuation Analysis
+Data Analysis and Management
+Tableau
+Google Suite
+Cryptography
+
+# portfolio
+
+Portfolio
+
+alt = finance
+Finance
+Web development
+
+alt = orizon
+Orizon
+Web development
+
+alt = fundo
+Fundo
+Web design
+
+alt = brawlhalla
+Brawlhalla
+Applications
