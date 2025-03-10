@@ -31,9 +31,17 @@ About me
 
 hey.
 
-I’m Dibyanshu, but most people call me Luci. I’m an undergraduate student at IIT Madras with a passion for programming and an ambition to build a career in finance or fintech. Right now, I spend my days programming and my nights chasing my dreams while also romanticizing every sleepless hour along the way.
+I’m Dibyanshu, but most people call me Luci. 
+I’m an undergraduate student at IIT Madras with a passion for finance, and technology. 
+By day, I work am a student and a programmer, and by night, I dive deep into finance, programming, and machine learning 
+while also romanticizing every sleepless hour along the way.
 
-There’s not much more to add for now, but hopefully, the next time you visit, you’ll find more stories, experiences, and maybe a few extra lines here.
+Currently, I’m learning advanced programming, financial modeling and the math behind it while preparing for CFA Level 1. 
+I’m also experimenting with the Godot game engine to bring one of my ideas to life.
+
+I love building, learning, and pushing myself beyond limits. 
+There’s still so much more to explore, and hopefully, the next time you visit, 
+I’ll have even more to share.
 
 ## service
 
